@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class HardcodedLoginTest {
 
-    HardcodedLogin hl = new HardcodedLogin();
+    Lab hl = new Lab();
 
     /**
      * If a user tries to login with username "admin" and password "qwerty", login should return "true"

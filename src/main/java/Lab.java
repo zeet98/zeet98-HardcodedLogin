@@ -1,5 +1,5 @@
 
-public class HardcodedLogin {
+public class Lab {
     /**
      * This challenge represents a hardcoded login example:
      *
